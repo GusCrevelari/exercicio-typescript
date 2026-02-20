@@ -1,2 +1,4 @@
-# exercicio-typescript
-Mobile application development lista de exercícios 02. 
+# Mobile Application Development
+### exercicio-typescript
+### Aula 04 - 19/02/2026 
+
